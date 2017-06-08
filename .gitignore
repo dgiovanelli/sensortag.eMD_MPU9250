@@ -131,3 +131,10 @@ Debug/
 Debug/*
 
 *.obj
+
+*/RemoteSystemsTempFiles
+*/RemoteSystemsTempFiles/
+*/RemoteSystemsTempFiles/*
+RemoteSystemsTempFiles
+RemoteSystemsTempFiles/
+RemoteSystemsTempFiles/*
